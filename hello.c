@@ -14,7 +14,8 @@ int main(void) {
 
     */
 
-    printf("hello, world again!");
+    printf("1st: hello, world!");
+    printf("2nd: hello, world!");
 
 
 
